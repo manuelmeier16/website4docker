@@ -1,3 +1,3 @@
-FROM nginx:16-alpine
+FROM nginx:alpine
 COPY . /usr/share/nginx/html
 
