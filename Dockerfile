@@ -1,5 +1,5 @@
 FROM alpine:3.16.2
-MAINTAINER Johannes M. Scheuermann <johannes.scheuermann@inovex.de>
+MAINTAINER Manuel Meier <mme134395@iet-gibb.ch>
 
 COPY ./bin/todo-app /app/todo-app
 COPY ./public /app/public
